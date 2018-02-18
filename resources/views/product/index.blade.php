@@ -6,7 +6,8 @@
             <h1>Vaisiai patiks visiems</h1>
         </div>
     </div>
-
+    
+	@include('product.pasirinkimai')
     @include('order.form')
     
 @stop

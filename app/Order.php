@@ -12,7 +12,6 @@ class Order extends Model
         'product_id',
         'first_name',
         'last_name',
-        'volume',
         'price',
     ];
 

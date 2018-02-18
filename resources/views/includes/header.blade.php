@@ -12,6 +12,7 @@
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="anketa.php">Užsakyti<i class="fa fa-user-plus"></i></a></li>
+                <li><a href="anketa.php">Prisijungti<i class="fa fa-user-plus"></i></a></li>
             </ul>
         </div>
     </div>

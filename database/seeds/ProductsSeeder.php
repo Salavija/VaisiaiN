@@ -13,20 +13,16 @@ class ProductsSeeder extends Seeder
     {
         $data = [
             [
-                'title' => 'Mažas krepšelis',
-                'price' => 15
+                'title' => 'Small',
+                'price' => 20
             ],
             [
-                'title' => 'Vidutinis krepšelis',
-                'price' => 25
-            ],
-            [
-                'title' => 'Didelis krepšelis',
-                'price' => 35
-            ],
-            [
-                'title' => 'Krepšelis su gėlėmis',
+                'title' => 'Medium',
                 'price' => 30
+            ],
+            [
+                'title' => 'Big',
+                'price' => 39
             ],
         ];
 

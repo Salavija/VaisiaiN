@@ -16,7 +16,6 @@ class CreateProductTable extends Migration
         Schema::create('product', function (Blueprint $table) {
             $table->increments('id');
             $table->string('title');    // pavadinimas
-            $table->double('volume');   // turis litrais
             $table->double('price');    // kaina uz litra
             $table->timestamps();
             $table->softDeletes();
